@@ -1,4 +1,5 @@
-# 軟體開發者的書籤<br>Developer's bookmarks
+# 軟體開發者的書籤<br>Developer's bookmarks  
+<https://github.com/Vdragon/Developer_s_bookmarks>  
 本作品已釋出至公有領域(public domain)
 
 ## 程式語言
